@@ -1,0 +1,36 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style-type: none;
+    background-color: aqua;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(120, 27, 156);
+    display: flex;justify-content: center;
+    align-items: center;
+
+
+}
+.innerone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(155, 173, 207);
+
+}
